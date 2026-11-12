@@ -1,0 +1,2 @@
+// orderSchema.js
+module.exports = {};

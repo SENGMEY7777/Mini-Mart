@@ -1,0 +1,2 @@
+// authSchema.js
+module.exports = {};

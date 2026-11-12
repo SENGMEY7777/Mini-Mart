@@ -1,0 +1,2 @@
+// categorySchema.js
+module.exports = {};

@@ -1,0 +1,2 @@
+// seed.js
+module.exports = {};

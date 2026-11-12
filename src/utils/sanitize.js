@@ -1,0 +1,2 @@
+// sanitize.js
+module.exports = {};

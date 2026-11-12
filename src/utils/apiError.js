@@ -1,0 +1,2 @@
+// apiError.js
+module.exports = {};

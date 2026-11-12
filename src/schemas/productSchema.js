@@ -1,0 +1,2 @@
+// productSchema.js
+module.exports = {};
