@@ -4,7 +4,7 @@ const helmet = require('helmet');
 const compression = require('compression');
 require('dotenv').config();
 
-const routes = require('./src/routes');
+const routes = require('./routes');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
